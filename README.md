@@ -2,11 +2,11 @@
  BLOCK OF SHIELDS AND LOGO:
  -->
  <div align="center">
-    <a href="https://github.com/Falcion/FondexAppProject/graphs/contributors"><img src="https://img.shields.io/github/contributors/Falcion/FondexAppProject" alt="contributors"/></a>
-    <a href="https://github.com/Falcion/FondexAppProject/stargazers"><img src="https://img.shields.io/github/stars/Falcion/FondexAppProject" alt="stargazers"/></a>
-    <a href="https://github.com/Falcion/FondexAppProject/forks"><img src="https://img.shields.io/github/forks/Falcion/FondexAppProject" alt="forks"/></a>
-    <a href="https://github.com/Falcion/FondexAppProject/issues"><img src="https://img.shields.io/github/issues/Falcion/FondexAppProject" alt="issues"/></a>
-    <a href="https://github.com/Falcion/FondexAppProject/commits"><img src="https://img.shields.io/github/last-commit/Falcion/FondexAppProject" alt="commit-activity"/></a>
+    <a href="https://github.com/angelomira/FondexAppProject/graphs/contributors"><img src="https://img.shields.io/github/contributors/angelomira/FondexAppProject" alt="contributors"/></a>
+    <a href="https://github.com/angelomira/FondexAppProject/stargazers"><img src="https://img.shields.io/github/stars/angelomira/FondexAppProject" alt="stargazers"/></a>
+    <a href="https://github.com/angelomira/FondexAppProject/forks"><img src="https://img.shields.io/github/forks/angelomira/FondexAppProject" alt="forks"/></a>
+    <a href="https://github.com/angelomira/FondexAppProject/issues"><img src="https://img.shields.io/github/issues/angelomira/FondexAppProject" alt="issues"/></a>
+    <a href="https://github.com/angelomira/FondexAppProject/commits"><img src="https://img.shields.io/github/last-commit/angelomira/FondexAppProject" alt="commit-activity"/></a>
 </div>
 <!-- -->
 <br/>
